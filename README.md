@@ -20,4 +20,4 @@ There are three externel libraries used :
 
 
 ### Deleting A Student Data
-![Alt text](https://https://i.imgur.com/V6WVOPp.gif "Deleting A Student Data")
+![Alt text](https://i.imgur.com/V6WVOPp.gif "Deleting A Student Data")
